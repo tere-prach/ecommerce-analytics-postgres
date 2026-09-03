@@ -1,0 +1,13 @@
+# Složka pro obří CSV data (nikdy nenahrávat na GitHub)
+data/
+*.csv
+*.zip
+
+# Nastavení DBeaveru a jiných SQL editorů
+.dbeaver/
+.dbeaver-data-sources.xml
+.idea/
+
+# Systémové soubory
+Thumbs.db
+.DS_Store
